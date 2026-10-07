@@ -1,0 +1,14 @@
+/home/marko4ever/niop/DZ/bin/Debug/net10.0/DZ
+/home/marko4ever/niop/DZ/bin/Debug/net10.0/DZ.deps.json
+/home/marko4ever/niop/DZ/bin/Debug/net10.0/DZ.runtimeconfig.json
+/home/marko4ever/niop/DZ/bin/Debug/net10.0/DZ.dll
+/home/marko4ever/niop/DZ/bin/Debug/net10.0/DZ.pdb
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/DZ.GeneratedMSBuildEditorConfig.editorconfig
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/DZ.AssemblyInfoInputs.cache
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/DZ.AssemblyInfo.cs
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/DZ.csproj.CoreCompileInputs.cache
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/DZ.dll
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/refint/DZ.dll
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/DZ.pdb
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/DZ.genruntimeconfig.cache
+/home/marko4ever/niop/DZ/obj/Debug/net10.0/ref/DZ.dll

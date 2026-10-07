@@ -1,0 +1,14 @@
+/home/marko4ever/niop/DZ-random/bin/Debug/net10.0/DZ-random
+/home/marko4ever/niop/DZ-random/bin/Debug/net10.0/DZ-random.deps.json
+/home/marko4ever/niop/DZ-random/bin/Debug/net10.0/DZ-random.runtimeconfig.json
+/home/marko4ever/niop/DZ-random/bin/Debug/net10.0/DZ-random.dll
+/home/marko4ever/niop/DZ-random/bin/Debug/net10.0/DZ-random.pdb
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/DZ-random.GeneratedMSBuildEditorConfig.editorconfig
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/DZ-random.AssemblyInfoInputs.cache
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/DZ-random.AssemblyInfo.cs
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/DZ-random.csproj.CoreCompileInputs.cache
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/DZ-random.dll
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/refint/DZ-random.dll
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/DZ-random.pdb
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/DZ-random.genruntimeconfig.cache
+/home/marko4ever/niop/DZ-random/obj/Debug/net10.0/ref/DZ-random.dll
