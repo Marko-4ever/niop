@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TDKDAN6qm9E=",
+  "success": true,
+  "projectFilePath": "/home/marko4ever/niop/DZ/DZ.csproj",
+  "expectedPackageFiles": [
+    "/home/marko4ever/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
