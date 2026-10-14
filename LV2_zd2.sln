@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ", "DZ\DZ.csproj", "{04E9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ-random", "DZ-random\DZ-random.csproj", "{65F2010A-D7C8-4AB2-B9F9-B1CD42FBF667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime-vjezba", "DateTime-vjezba\DateTime-vjezba.csproj", "{9ACFF6F1-8CAF-479E-88A0-27D857022630}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{65F2010A-D7C8-4AB2-B9F9-B1CD42FBF667}.Release|x64.Build.0 = Release|Any CPU
 		{65F2010A-D7C8-4AB2-B9F9-B1CD42FBF667}.Release|x86.ActiveCfg = Release|Any CPU
 		{65F2010A-D7C8-4AB2-B9F9-B1CD42FBF667}.Release|x86.Build.0 = Release|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Debug|x64.Build.0 = Debug|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Debug|x86.Build.0 = Debug|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Release|x64.ActiveCfg = Release|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Release|x64.Build.0 = Release|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Release|x86.ActiveCfg = Release|Any CPU
+		{9ACFF6F1-8CAF-479E-88A0-27D857022630}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

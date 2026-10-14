@@ -1,0 +1,15 @@
+/home/marko4ever/niop/DateTime-vjezba/bin/Debug/net10.0/DateTime-vjezba
+/home/marko4ever/niop/DateTime-vjezba/bin/Debug/net10.0/DateTime-vjezba.deps.json
+/home/marko4ever/niop/DateTime-vjezba/bin/Debug/net10.0/DateTime-vjezba.runtimeconfig.json
+/home/marko4ever/niop/DateTime-vjezba/bin/Debug/net10.0/DateTime-vjezba.dll
+/home/marko4ever/niop/DateTime-vjezba/bin/Debug/net10.0/DateTime-vjezba.pdb
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/DateTime-vjezba.GeneratedMSBuildEditorConfig.editorconfig
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/DateTime-vjezba.AssemblyInfoInputs.cache
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/DateTime-vjezba.AssemblyInfo.cs
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/DateTime-vjezba.csproj.CoreCompileInputs.cache
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/DateTime-vjezba.sourcelink.json
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/DateTime-vjezba.dll
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/refint/DateTime-vjezba.dll
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/DateTime-vjezba.pdb
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/DateTime-vjezba.genruntimeconfig.cache
+/home/marko4ever/niop/DateTime-vjezba/obj/Debug/net10.0/ref/DateTime-vjezba.dll
