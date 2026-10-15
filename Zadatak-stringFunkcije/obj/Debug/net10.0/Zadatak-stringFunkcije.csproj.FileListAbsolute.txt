@@ -1,0 +1,15 @@
+/home/marko4ever/niop/Zadatak-stringFunkcije/bin/Debug/net10.0/Zadatak-stringFunkcije
+/home/marko4ever/niop/Zadatak-stringFunkcije/bin/Debug/net10.0/Zadatak-stringFunkcije.deps.json
+/home/marko4ever/niop/Zadatak-stringFunkcije/bin/Debug/net10.0/Zadatak-stringFunkcije.runtimeconfig.json
+/home/marko4ever/niop/Zadatak-stringFunkcije/bin/Debug/net10.0/Zadatak-stringFunkcije.dll
+/home/marko4ever/niop/Zadatak-stringFunkcije/bin/Debug/net10.0/Zadatak-stringFunkcije.pdb
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/Zadatak-stringFunkcije.GeneratedMSBuildEditorConfig.editorconfig
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/Zadatak-stringFunkcije.AssemblyInfoInputs.cache
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/Zadatak-stringFunkcije.AssemblyInfo.cs
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/Zadatak-stringFunkcije.csproj.CoreCompileInputs.cache
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/Zadatak-stringFunkcije.sourcelink.json
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/Zadatak-stringFunkcije.dll
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/refint/Zadatak-stringFunkcije.dll
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/Zadatak-stringFunkcije.pdb
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/Zadatak-stringFunkcije.genruntimeconfig.cache
+/home/marko4ever/niop/Zadatak-stringFunkcije/obj/Debug/net10.0/ref/Zadatak-stringFunkcije.dll

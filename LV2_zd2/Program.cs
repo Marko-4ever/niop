@@ -18,7 +18,7 @@ internal class Program
             Console.WriteLine("Unesite drugi broj: ");
             broj2 = float.Parse(Console.ReadLine());
 
-        }while (broj1 == 0 || broj2 == 0);
+        } while (broj1 == 0 || broj2 == 0);
 
         do
         {
@@ -49,8 +49,12 @@ internal class Program
             }
             else
             {
-                Console.WriteLine("Koji je dodatni broj?");
-                broj3 = float.Parse(Console.ReadLine());
+                do
+                {
+                    Console.WriteLine("Koji je dodatni broj?");
+                    broj3 = float.Parse(Console.ReadLine());
+                } while (broj3 == 0);
+
 
                 switch (odabir)
                 {
@@ -72,7 +76,7 @@ internal class Program
             Console.WriteLine("Zelite li dodatni broj ili operaciju (d/n)?");
             odluka = char.Parse(Console.ReadLine());
         } while (odluka == 'd');
-        
+
         Console.WriteLine(q);
     }
 }
