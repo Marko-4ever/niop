@@ -1,0 +1,15 @@
+/home/marko4ever/niop/Liste-zd1/bin/Debug/net10.0/Liste-zd1
+/home/marko4ever/niop/Liste-zd1/bin/Debug/net10.0/Liste-zd1.deps.json
+/home/marko4ever/niop/Liste-zd1/bin/Debug/net10.0/Liste-zd1.runtimeconfig.json
+/home/marko4ever/niop/Liste-zd1/bin/Debug/net10.0/Liste-zd1.dll
+/home/marko4ever/niop/Liste-zd1/bin/Debug/net10.0/Liste-zd1.pdb
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/Liste-zd1.GeneratedMSBuildEditorConfig.editorconfig
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/Liste-zd1.AssemblyInfoInputs.cache
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/Liste-zd1.AssemblyInfo.cs
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/Liste-zd1.csproj.CoreCompileInputs.cache
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/Liste-zd1.sourcelink.json
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/Liste-zd1.dll
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/refint/Liste-zd1.dll
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/Liste-zd1.pdb
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/Liste-zd1.genruntimeconfig.cache
+/home/marko4ever/niop/Liste-zd1/obj/Debug/net10.0/ref/Liste-zd1.dll
